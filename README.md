@@ -1,4 +1,4 @@
-# Tweets
+# Depression
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -32,11 +32,11 @@ This project uses the `Depression: Twitter Dataset + Feature Extraction` dataset
 ### Default Environment
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mxlodyk/Tweets.git
+    git clone https://github.com/mxlodyk/Depression.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Tweets
+    cd Depression
     ```
 3. Install the required dependencies:
     ```bash
