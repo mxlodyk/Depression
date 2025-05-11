@@ -85,8 +85,10 @@ Contributions are welcome! If you'd like to improve the program or fix any issue
 5. Open a Pull Request.
 
 ## Screenshots
-![Topic Output](screenshots/topic_output.png)
-![Topic Distribution](screenshots/topic_distribution_plot.png)
+<p float="left">
+  <img src="screenshots/topic_output.png" width="45%" />
+  <img src="screenshots/topic_distribution_plot.png" width="45%" />
+</p>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
