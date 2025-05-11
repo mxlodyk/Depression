@@ -1,4 +1,4 @@
-# Depression
+# Topic Modelling on Tweets from Depressed and Non-Depressed Users
 
 ## Table of Contents
 - [Introduction](#introduction)
